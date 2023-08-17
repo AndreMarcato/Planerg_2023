@@ -26,29 +26,71 @@ num_anos = total_anos - 1
 print("Número de anos considerados: ", num_anos)
 
 # Número de phis considerados (num_meses = num_phis)
-num_phis = 5
+num_phis = 11
 print("Número de phis considerados: ", num_phis)
+
+ano_previsao=2021
 
 # Mês escolhido
 meses = {'Jan': 0, 'Fev': 1, 'Mar': 2, 'Abr': 3, 'Mai': 4, 'Jun': 5,
          'Jul': 6, 'Ago': 7, 'Set': 8, 'Out': 9, 'Nov': 10, 'Dez': 11}
 
-mes = meses['Mar']
+mes = meses['Mai']
 
 print("Mês escolhido: ", mes)
-resultado = calculo_regressao_linear(Usina, mes, num_phis, total_anos, num_anos, imprime=False)
+resultado = calculo_regressao_linear(Usina, mes, num_phis, total_anos, num_anos, imprime=True)
+Z = calculo_previsao(Usina, resultado, mes, num_phis, ano_previsao)
 
-Z = calculo_previsao(Usina, resultado, mes, num_phis, ano_previsao=2021)
+z_values = []
+real_values = []
+
+for mes_name, mes_value in meses.items():
+    resultado = calculo_regressao_linear(Usina, mes_value, num_phis, total_anos, num_anos, imprime=False)
+    Z = calculo_previsao(Usina, resultado, mes_value, num_phis, ano_previsao=2021)
+    z_values.append(Z)
+    real_value = Usina['vazoes'][2021-1931][mes_value]
+    real_values.append(real_value)
+
+# Gráfico de Z e Valores Reais
+plt.figure(figsize=(10, 5))
+plt.plot(meses.keys(), z_values, alpha=1, label='Previsão', marker = 'o', linestyle='dashed', linewidth=1.5)
+plt.plot(meses.keys(), real_values, alpha=1, label='Real',  marker = 'o', linestyle='dashed', linewidth=1.1)
+plt.title(f'Valores da Previsão e Valores Reais para Cada Mês - Ano {ano_previsao}')
+plt.xlabel('Mês')
+plt.ylabel('Valor')
+plt.grid()
+plt.legend()
 
 
 
+phis_values = [1, 3, 5, 7, 9, 11]
+real_values = []
 
+# Calculando os valores reais uma vez, já que eles são constantes
+for mes_name, mes_value in meses.items():
+    real_value = Usina['vazoes'][2021-1931][mes_value]
+    real_values.append(real_value)
 
+# Criando a figura
+plt.figure(figsize=(10, 5))
 
+# Plotando os valores reais
+plt.plot(meses.keys(), real_values, alpha=1, label='Real', marker='o', linewidth=1.3)
 
+# Loop para variar o número de phis e calcular as previsões
+for phi in phis_values:
+    z_values = []
+    for mes_name, mes_value in meses.items():
+        resultado = calculo_regressao_linear(Usina, mes_value, phi, total_anos, num_anos, imprime=False)
+        Z = calculo_previsao(Usina, resultado, mes_value, phi, ano_previsao=2021)
+        z_values.append(Z)
 
+    plt.plot(meses.keys(), z_values, alpha=1, label=f'Previsão (phis={phi})', marker='o', linestyle='dashed', linewidth=1.2)
 
+plt.title(f'Valores da Previsão e Valores Reais para Cada Mês - Ano {ano_previsao}')
+plt.xlabel('Mês')
+plt.ylabel('Valor')
+plt.grid()
+plt.legend()
+plt.show()
 
-## plotar o grafico de barras com os valores de Z para cada mes
-## plotar o grafico de barras com os valores de Z para cada mes e o valor real
-## plotar o grafico de barras com os valores de Z para cada mes e o valor real e o erro
