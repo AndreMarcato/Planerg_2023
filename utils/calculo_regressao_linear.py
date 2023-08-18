@@ -109,13 +109,8 @@ def calculo_regressao_linear(Usina, mes, num_phis ,total_anos, num_anos, imprime
     print('Tamanho h: ',np.shape(h))
     print('Tamanho Aeq: ',np.shape(Aeq))
     print('Tamanho Beq: ',np.shape(Beq))
-    # Convertendo a matriz Aeq para um array numpy
-# Convertendo a matriz P para um array numpy
-    P_np = np.array(P)
 
-    # Verificando os autovalores
-    eigvals_P = np.linalg.eigvals(P_np)
-    print("Autovalores de P:", eigvals_P)
+
 
   # Resolve o Problema de Otimização Quadrática
 

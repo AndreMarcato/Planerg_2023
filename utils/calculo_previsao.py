@@ -1,4 +1,4 @@
-def calculo_previsao(Usina, resultado, mes, num_phis, ano_previsao=2021):
+def calculo_previsao(Usina, resultado, mes, num_phis, ano_previsao):
   
     meses = {0: 'Janeiro', 1: 'Fevereiro', 2: 'Março', 3: 'Abril', 4: 'Maio', 5: 'Junho',
               6: 'Julho', 7: 'Agosto', 8: 'Setembro', 9: 'Outubro', 10: 'Novembro', 11: 'Dezembro'}
@@ -24,7 +24,7 @@ def calculo_previsao(Usina, resultado, mes, num_phis, ano_previsao=2021):
             Z += phis[num_phis-phis_ano_anterior+i] * Usina['vazoes'][ano_previsao-1-1931][11-i]
         #Z += erros[ano_previsao-1932]
 
-    print(f"Previsão calculada para o mês {meses[mes]} do ano de {ano_previsao} ", Z)
-    print("Valor Exato extraído do PySDDP:", Usina['vazoes'][2021-1931][mes])
+    # print(f"Previsão calculada para o mês {meses[mes]} do ano de {ano_previsao} ", Z)
+    # print("Valor Exato extraído do PySDDP:", Usina['vazoes'][2021-1931][mes])
 
     return Z
