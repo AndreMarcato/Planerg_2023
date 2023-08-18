@@ -12,12 +12,12 @@ def calculo_previsao(Usina, resultado, mes, num_phis, ano_previsao):
     Z = 0.
     phis_ano_anterior = abs((mes+1) - num_phis) + 1
 
-    # se ficar no mesmo n
+    # se ficar no mesmo no mesmo ano
     if ((mes+1) - num_phis >= 0):
         for i in range(num_phis):
             Z += phis[i] * Usina['vazoes'][ano_previsao-1931][mes-i-1]
         #Z += erros[ano_previsao-1932]
-    else:
+    else: # tem que ir pra outro ano
         for i in range(num_phis-phis_ano_anterior):
             Z += phis[i] * Usina['vazoes'][ano_previsao-1931][mes-i-1]
         for i in range(phis_ano_anterior):
