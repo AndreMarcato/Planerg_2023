@@ -1,0 +1,166 @@
+ NUM  NOME         POSTO JUS   REE V.INIC U.EXIS MODIF INIC.HIST FIM HIST
+ XXXX XXXXXXXXXXXX XXXX  XXXX XXXX XXX.XX XXXX   XXXX     XXXX     XXXX
+    4 FUNIL-GRANDE  211     6   10   0.00   EX      1     1931     2019
+   20 BATALHA        22    21   10  22.40   EX      1     1931     2019
+   21 SERRA FACAO   251    24   10  25.50   EX      0     1931     2019
+   27 CAPIM BRANC1  207    28   10  51.50   EX      1     1931     2019
+   28 CAPIM BRANC2   28    31   10   0.00   EX      1     1931     2019
+   29 CORUMBA IV    205   203   10  61.73   EX      0     1931     2019
+   48 PIRAJU         48    49   12   0.00   EX      0     1931     2019
+   66 ITAIPU         66     0    5   0.00   EX      0     1931     2019
+  131 NILO PECANHA  131   133    1   0.00   EX      0     1931     2019
+  132 FONTES        303   133    1   0.00   EX      1     1931     2019
+  141 BAGUARI       141   143    1   0.00   EX      0     1931     2019
+  153 SAO DOMINGOS  154    46   10   0.00   EX      0     1931     2019
+  155 RETIRO BAIXO  155   156    1  14.67   EX      1     1931     2019
+  156 TRES MARIAS   156     0    1  48.76   EX      1     1931     2019
+  162 QUEIMADO      158     0    1  56.19   EX      1     1931     2019
+  195 JAURU         295     0    1   0.00   EX      0     1931     2019
+  196 GUAPORE       296   285    6   0.00   EX      0     1931     2019
+  203 CORUMBA III    23    30   10  89.72   EX      0     1931     2019
+  227 SINOP         227   228    7  62.72   EX      1     1931     2019
+  228 COLIDER       228   229    7   0.00   EX      1     1931     2019
+  229 TELES PIRES   229   230    7   0.00   EX      1     1931     2019
+  230 SAO MANOEL    230     0    7   0.00   EX      0     1931     2019
+  241 SLT VERDINHO  241    34   10   0.00   EX      0     1931     2019
+  249 OURINHOS      249    50   12   0.00   EX      0     1931     2019
+  251 SERRA MESA    270   252    1  28.92   EX      1     1931     2019
+  252 CANA BRAVA    191   253    1   0.00   EX      1     1931     2019
+  253 SAO SALVADOR  253   257    1   0.00   EX      1     1931     2019
+  257 PEIXE ANGIC   257   261    1  49.30   EX      1     1931     2019
+  261 LAJEADO       273     0    1   0.00   EX      1     1931     2019
+  262 SALTO         294   241   10   0.00   EX      1     1931     2019
+  276 RONDON II     145     0    6  45.60   EX      0     1931     2019
+  281 PONTE PEDRA   281     0    1   0.00   EX      1     1931     2019
+  285 JIRAU         285   287    6   0.00   EX      1     1931     2019
+  287 STO ANTONIO   287     0    6   0.00   EX      1     1931     2019
+  290 ESPORA         99    34   10  48.00   EX      0     1931     2019
+  304 ITIQUIRA I    259   305    1   0.00   EX      0     1931     2019
+  305 ITIQUIRA II   252     0    1   0.00   EX      1     1931     2019
+  309 JURUENA       226     0    7   0.00   NE      0     1931     2019
+  310 DARDANELOS    291     0    6   0.00   EX      0     1931     2019
+  311 CACU          247   312   10  98.00   EX      1     1931     2019
+  312 B. COQUEIROS  248   315   10   0.00   EX      1     1931     2019
+  315 FOZ R. CLARO  261    34   10   0.00   EX      0     1931     2019
+  319 FICT.MAUA      57    61   12  19.50   EX      1     1931     2019
+  117 GUARAPIRANGA  117   118    1  52.95   EX      1     1931     2019
+  118 BILLINGS      319   119    1  63.49   EX      1     1931     2019
+  119 HENRY BORDEN  318     0    1   0.00   EX      1     1931     2019
+  120 JAGUARI       120   123    1  30.00   EX      1     1931     2019
+  121 PARAIBUNA     121   122    1  27.54   EX      1     1931     2019
+  122 SANTA BRANCA  122   123    1  19.63   EX      1     1931     2019
+  123 FUNIL         123   131    1  38.54   EX      1     1931     2019
+  124 LAJES         132   132    1  88.43   EX      1     1931     2019
+  126 PICADA        197   127    1   0.00   EX      1     1931     2019
+  127 SOBRAGI       198   129    1   0.00   EX      0     1931     2019
+  129 SIMPLICIO     126   130    1   0.00   EX      0     1931     2019
+  130 ILHA POMBOS   299     0    1   0.00   EX      0     1931     2019
+  133 P. PASSOS     306     0    1   0.00   EX      1     1931     2019
+  134 SALTO GRANDE  134   135    1   0.00   EX      1     1931     2019
+  135 P. ESTRELA    263   141    1  63.97   EX      1     1931     2019
+  139 CANDONGA      149   141    1   0.00   EX      1     1931     2019
+  143 AIMORES       148   144    1   0.00   EX      0     1931     2019
+  144 MASCARENHAS   144     0    1   0.00   EX      1     1931     2019
+  192 GUILMAN-AMOR  262   193    1   0.00   EX      1     1931     2019
+  193 SA CARVALHO   183   141    1   0.00   EX      0     1931     2019
+  217 ROSAL         196     0    1   0.00   EX      0     1931     2019
+  279 SAMUEL        279     0    6  54.65   EX      0     1931     2019
+  148 IRAPE         255     0    1  35.22   EX      1     1931     2019
+  283 STA CLARA MG  283     0    1   0.00   EX      1     1931     2019
+    1 CAMARGOS        1     2   10  31.73   EX      1     1931     2019
+    2 ITUTINGA        2     4   10   0.00   EX      1     1931     2019
+    6 FURNAS          6     7   10  17.63   EX      1     1931     2019
+    7 M. DE MORAES    7     8   10  20.64   EX      1     1931     2019
+    8 ESTREITO        8     9   10   0.00   EX      1     1931     2019
+    9 JAGUARA         9    10   10   0.00   EX      1     1931     2019
+   10 IGARAPAVA      10    11   10   0.00   EX      1     1931     2019
+   11 VOLTA GRANDE   11    12   10   0.00   EX      1     1931     2019
+   12 P. COLOMBIA    12    17   10   0.00   EX      1     1931     2019
+   14 CACONDE        14    15   10  17.10   EX      1     1931     2019
+   15 E. DA CUNHA    15    16   10   0.00   EX      0     1931     2019
+   16 A.S.OLIVEIRA   16    17   10   0.00   EX      1     1931     2019
+   17 MARIMBONDO     17    18   10  14.10   EX      1     1931     2019
+   18 A. VERMELHA    18    34   10  21.10   EX      1     1931     2019
+   34 I. SOLTEIRA    34    45   10  29.65   EX      1     1931     2019    
+   24 EMBORCACAO     24    31   10  11.56   EX      1     1931     2019
+   25 NOVA PONTE     25    26   10  12.02   EX      1     1931     2019
+   26 MIRANDA       206    27   10  64.01   EX      1     1931     2019
+   30 CORUMBA I     209    31   10  66.66   EX      1     1931     2019
+   31 ITUMBIARA      31    32   10  11.44   EX      1     1931     2019
+   32 CACH.DOURADA   32    33   10   0.00   EX      1     1931     2019
+   33 SAO SIMAO      33    34   10  23.01   EX      1     1931     2019
+   37 BARRA BONITA   37    38   10  51.40   EX      1     1931     2019
+   38 A.S. LIMA      38    39   10   0.00   EX      0     1931     2019
+   39 IBITINGA       39    40   10   0.00   EX      0     1931     2019
+   40 PROMISSAO      40    42   10  39.00   EX      1     1931     2019
+   42 NAVANHANDAVA   42    43   10   0.00   EX      0     1931     2019
+   43 TRES IRMAOS    43    45   10  32.30   EX      1     1931     2019
+   45 JUPIA          45    46   10   0.00   EX      1     1931     2019
+   46 P. PRIMAVERA   46    66   10   0.00   EX      1     1931     2019
+  278 MANSO         278     0    1  15.26   EX      1     1931     2019
+   47 A.A. LAYDNER   47    48   12  24.21   EX      1     1931     2019
+   49 CHAVANTES      49   249   12  26.18   EX      1     1931     2019
+   50 L.N. GARCEZ    50    51   12   0.00   EX      1     1931     2019
+   51 CANOAS II      51    52   12   0.00   EX      1     1931     2019
+   52 CANOAS I       52    61   12   0.00   EX      1     1931     2019
+   61 CAPIVARA       61    62   12  54.63   EX      1     1931     2019
+   62 TAQUARUCU      62    63   12   0.00   EX      1     1931     2019
+   63 ROSANA         63    66   12   0.00   EX      1     1931     2019
+   57 MAUA           57     0   11  19.50   EX      1     1931     2019
+   71 STA CLARA PR   71    72   11  22.90   EX      0     1931     2019
+   72 FUNDAO         72    73   11   0.00   EX      0     1931     2019
+   74 G.B. MUNHOZ    74    76   11  16.10   EX      0     1931     2019
+   83 BAIXO IGUACU   81     0   11   0.00   EX      1     1931     2019
+   86 BARRA GRANDE  215    91    2  24.20   EX      1     1931     2019
+   88 SAO ROQUE      88    89    2   0.00   NE      0     1931     2019
+   89 GARIBALDI      89    90    2  62.08   EX      1     1931     2019
+   90 CAMPOS NOVOS  216    91    2  16.17   EX      0     1931     2019
+   91 MACHADINHO    217    92    2  43.72   EX      1     1931     2019
+   92 ITA            92   103    2   0.00   EX      1     1931     2019
+   93 PASSO FUNDO    93    94    2  47.32   EX      0     1931     2019
+   94 MONJOLINHO    220   103    2   0.00   EX      0     1931     2019
+   95 QUEBRA QUEIX  286     0    2  46.93   EX      1     1931     2019
+  101 SAO JOSE      102   102    2   0.00   EX      1     1931     2019
+  102 PASSO S JOAO  103     0    2   0.00   EX      1     1931     2019
+  103 FOZ CHAPECO    94     0    2   0.00   EX      1     1931     2019
+   97 CASTRO ALVES   98    98    2   0.00   EX      0     1931     2019
+   98 MONTE CLARO    97    99    2   0.00   EX      0     1931     2019
+   99 14 DE JULHO   284     0    2   0.00   EX      0     1931     2019
+  110 ERNESTINA     110   111    2  60.50   EX      0     1931     2019
+  111 PASSO REAL    111   112    2  42.38   EX      1     1931     2019
+  112 JACUI         112   113    2   0.00   EX      0     1931     2019
+  113 ITAUBA        113   114    2   0.00   EX      0     1931     2019
+  114 D. FRANCISCA  114     0    2   0.00   EX      1     1931     2019
+  115 G.P. SOUZA    115     0    2  30.10   EX      0     1931     2019
+  215 SALTO PILAO   101     0    2   0.00   EX      0     1931     2019
+   73 JORDAO         70    77   11 100.00   EX      1     1931     2019
+   76 SEGREDO        75    77   11  11.20   EX      0     1931     2019
+   77 SLT.SANTIAGO   77    78   11  40.59   EX      1     1931     2019
+   78 SALTO OSORIO   78    82   11   0.00   EX      1     1931     2019
+   82 SALTO CAXIAS  222    83   11   0.00   EX      1     1931     2019
+  169 SOBRADINHO    169   172    3  48.66   EX      1     1931     2019
+  172 ITAPARICA     172   176    3  68.56   EX      1     1931     2019
+  176 COMP PAF-MOX  176   178    3   0.00   EX      1     1931     2019
+  178 XINGO         178     0    3   0.00   EX      1     1931     2019
+  294 FICT.QUEIMAD  158   169    3  56.19   EX      1     1931     2019
+  295 FICT.TRES MA  156   169    3  48.76   EX      1     1931     2019
+  308 FICT.RETIRO   155   295    3  14.67   EX      1     1931     2019
+  154 ITAPEBI       188     0    3   0.00   EX      1     1931     2019
+  298 FICT.IRAPE    255   154    3  35.22   EX      1     1931     2019
+  189 P. CAVALO     254     0    3  73.51   EX      1     1931     2019
+  190 B. ESPERANCA  190     0    3  79.57   EX      1     1931     2019
+  204 CACH.CALDEIR  204   280    9   0.00   EX      1     1931     2019
+  267 ESTREITO TOC  271   275    4   0.00   EX      1     1931     2019
+  275 TUCURUI       275     0    4  88.75   EX      1     1931     2019
+  277 BALBINA       269     0    9  88.62   EX      1     1931     2019
+  280 COARACY NUNE  280   284    9   0.00   EX      0     1931     2019
+  284 FERREIRA GOM  297     0    9   0.00   EX      1     1931     2019
+  286 STO ANT JARI  290     0    9   0.00   EX      0     1931     2019
+  291 FICT.SERRA M  270   292    4  52.58   EX      1     1931     2019
+  292 FICT.CANA BR  191   306    4   0.00   EX      1     1931     2019
+  302 FICT.LAJEADO  273   267    4   0.00   EX      1     1931     2019
+  303 FICT.PEIXE A  257   302    4  49.30   EX      1     1931     2019
+  306 FICT.SAO SAL  253   303    4   0.00   EX      1     1931     2019
+  314 PIMENTAL      302     0    8   0.00   EX      0     1931     2019
+  272 CURUA-UNA     277     0    8  98.74   EE      1     1931     2019
+  288 BELO MONTE    292     0    8   0.00   EX      1     1931     2019

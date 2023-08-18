@@ -1,0 +1,170 @@
+ NUM  NOME CLASSE  TIPO COMB.  CUSTO   CUSTO   CUSTO   CUSTO   CUSTO   
+ XXXX XXXXXXXXXXXX XXXXXXXXXX XXXX.XX XXXX.XX XXXX.XX XXXX.XX XXXX.XX
+    1 ANGRA 1      Nuclear      31.17   31.17   31.17   31.17   31.17                                                                                                                                                     
+   13 ANGRA 2      Nuclear      20.12   20.12   20.12   20.12   20.12                                                                                                                                                     
+  211 BAIXADA FLU  Gas          98.82   98.82   98.82   98.82   98.82                                                                                                                                                     
+   97 CUBATAO      Gas         357.66  357.66  357.66  357.66  357.66                                                                                                                                                     
+   12 CUIABA G CC  Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  153 DAIA         Diesel     1020.95 1020.95 1020.95 1020.95 1020.95                                                                                                                                                     
+   65 DO ATLAN_CSA Residuos I    0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  183 DO ATLANTICO Residuos I  206.08  206.08  206.08  206.08  206.08                                                                                                                                                     
+  137 GNA I        Gas         236.99  236.99  236.99  236.99  236.99                                                                                                                                                     
+  238 GNA P. ACU 3 Gas         170.12  170.12  170.12  170.12  170.12                                                                                                                                                     
+  155 GOIANIA II   Diesel     1067.44 1067.44 1067.44 1067.44 1067.44                                                                                                                                                     
+   63 IBIRITE      Gas         261.78  261.78  261.78  261.78  261.78                                                                                                                                                     
+   54 JUIZ DE FORA Gas         283.74  283.74  283.74  283.74  283.74                                                                                                                                                     
+   15 LINHARES     GNL         287.41  287.41  287.41  287.41  287.41                                                                                                                                                     
+  236 MARLIM AZUL  Gas          85.01   85.01   85.01   85.01   85.01                                                                                                                                                     
+  110 N.PIRATINING Gas         548.04  548.04  548.04  548.04  548.04                                                                                                                                                     
+  171 NORTEFLU-1   Gas          80.69   80.69   80.69   80.69   80.69                                                                                                                                                     
+  172 NORTEFLU-2   Gas          92.91   92.91   92.91   92.91   92.91                                                                                                                                                     
+  173 NORTEFLU-3   Gas         176.88  176.88  176.88  176.88  176.88                                                                                                                                                     
+  174 NORTEFLU-4   Gas         631.70  631.70  631.70  631.70  631.70                                                                                                                                                     
+  229 ONCA PINTADA Biomassa     92.21   92.21   92.21   92.21   92.21                                                                                                                                                     
+  182 PALMEIRAS GO Diesel      763.77  763.77  763.77  763.77  763.77                                                                                                                                                     
+   50 PIRAT.12 G   Gas         470.34  470.34  470.34  470.34  470.34                                                                                                                                                     
+  230 PREDILECTA   Biomassa    129.56  129.56  129.56  129.56  129.56                                                                                                                                                     
+    9 R.SILVEIRA   Gas         978.10  978.10  978.10  978.10  978.10                                                                                                                                                     
+   62 SEROPEDICA   Gas         411.59  411.59  411.59  411.59  411.59                                                                                                                                                     
+    4 ST.CRUZ 34   Oleo        310.41  310.41  310.41  310.41  310.41                                                                                                                                                     
+   86 ST.CRUZ NOVA GNL         189.38  189.38  189.38  189.38  189.38                                                                                                                                                     
+  146 STA VITORIA  Biomassa     90.00   90.00   90.00   90.00   90.00                                                                                                                                                     
+  194 T.NORTE 2    Oleo        910.86  910.86  910.86  910.86  910.86                                                                                                                                                     
+   90 TERMOMACAE   Gas         739.82  739.82  739.82  739.82  739.82                                                                                                                                                     
+   47 TERMORIO     Gas         330.93  330.93  330.93  330.93  330.93                                                                                                                                                     
+   68 TRES LAGOAS  Gas         263.19  263.19  263.19  263.19  263.19                                                                                                                                                     
+   49 VIANA        Oleo        786.41  786.41  786.41  786.41  786.41                                                                                                                                                     
+  334 W. ARJONA    Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  108 XAVANTES     Diesel     1467.03 1467.03 1467.03 1467.03 1467.03                                                                                                                                                     
+   48 ARAUCARIA    Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+   37 ARGENTINA 1  CONTRATO     43.02   43.02   43.02   43.02   43.02                                                                                                                                                     
+   71 ARGENTINA 1B CONTRATO     53.10   53.10   53.10   53.10   53.10                                                                                                                                                     
+   38 ARGENTINA 2A CONTRATO     53.10   53.10   53.10   53.10   53.10                                                                                                                                                     
+   39 ARGENTINA 2B CONTRATO     53.10   53.10   53.10   53.10   53.10                                                                                                                                                     
+   40 ARGENTINA 2C CONTRATO     53.10   53.10   53.10   53.10   53.10                                                                                                                                                     
+   59 ARGENTINA 2D CONTRATO     53.10   53.10   53.10   53.10   53.10                                                                                                                                                     
+  237 CAMBARA      Biomassa    164.84  164.84  164.84  164.84  164.84                                                                                                                                                     
+  156 CANDIOTA 3   Carvao       92.68   92.68   92.68   92.68   92.68                                                                                                                                                     
+   64 CANOAS       Diesel      698.14  698.14  698.14  698.14  698.14                                                                                                                                                     
+  169 CISFRAMA     Biomassa    332.22  332.22  332.22  332.22  332.22                                                                                                                                                     
+   28 FIGUEIRA     Carvao      330.64  330.64  330.64  330.64  330.64                                                                                                                                                     
+   26 J.LACERDA A1 Carvao      304.61  304.61  304.61  304.61  304.61                                                                                                                                                     
+   27 J.LACERDA A2 Carvao      278.38  278.38  278.38  278.38  278.38                                                                                                                                                     
+   25 J.LACERDA B  Carvao      271.21  271.21  271.21  271.21  271.21                                                                                                                                                     
+   24 J.LACERDA C  Carvao      229.27  229.27  229.27  229.27  229.27                                                                                                                                                     
+  107 PAMPA SUL    Carvao       53.92   53.92   53.92   53.92   53.92                                                                                                                                                     
+  149 SAO SEPE     Biomassa     76.11   76.11   76.11   76.11   76.11                                                                                                                                                     
+   35 URUGUAIANA   Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  109 ALTOS        Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  111 ARACATI      Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  112 BAHIA I      Oleo        819.79  819.79  819.79  819.79  819.79                                                                                                                                                     
+  113 BATURITE     Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  235 CAMACARI MII Diesel     1664.62 1664.62 1664.62 1664.62 1664.62                                                                                                                                                     
+  166 CAMACARI PI  Oleo       1023.71 1023.71 1023.71 1023.71 1023.71                                                                                                                                                     
+   52 CAMPINA GDE  Oleo        786.42  786.42  786.42  786.42  786.42                                                                                                                                                     
+  117 CAMPO MAIOR  Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  119 CAUCAIA      Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  121 CRATO        Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  125 ENGUIA PECEM Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  106 ERB CANDEIAS Biomassa     60.00   60.00   60.00   60.00   60.00                                                                                                                                                     
+   42 FORTALEZA    Gas         245.46  245.46  245.46  245.46  245.46                                                                                                                                                     
+   53 GLOBAL I     Oleo        891.61  891.61  891.61  891.61  891.61                                                                                                                                                     
+   55 GLOBAL II    Oleo        891.61  891.61  891.61  891.61  891.61                                                                                                                                                     
+  127 IGUATU       Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  133 JUAZEIRO N   Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+   57 MARACANAU I  Oleo        762.59  762.59  762.59  762.59  762.59                                                                                                                                                     
+  135 MARAMBAIA    Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  164 MURICY       Oleo       1023.71 1023.71 1023.71 1023.71 1023.71                                                                                                                                                     
+  138 NAZARIA      Diesel        0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  167 P. PECEM I   Carvao      221.96  221.96  221.96  221.96  221.96                                                                                                                                                     
+  163 P. PECEM II  Carvao      230.18  230.18  230.18  230.18  230.18                                                                                                                                                     
+  224 P. SERGIPE I GNL         207.90  207.90  207.90  207.90  207.90                                                                                                                                                     
+  160 PAU FERRO I  Diesel     1136.93 1136.93 1136.93 1136.93 1136.93                                                                                                                                                     
+  162 PECEM II     Diesel     1681.89 1681.89 1681.89 1681.89 1681.89                                                                                                                                                     
+   98 PERNAMBU_III Oleo        674.24  674.24  674.24  674.24  674.24                                                                                                                                                     
+  144 PETROLINA    Oleo       1123.16 1123.16 1123.16 1123.16 1123.16                                                                                                                                                     
+  151 POTIGUAR     Diesel     1004.32 1004.32 1004.32 1004.32 1004.32                                                                                                                                                     
+  161 POTIGUAR III Diesel     1004.31 1004.31 1004.31 1004.31 1004.31                                                                                                                                                     
+  223 PROSPERI III Gas         127.63  127.63  127.63  127.63  127.63                                                                                                                                                     
+  241 PROSPERID II Gas         131.87  131.87  131.87  131.87  131.87                                                                                                                                                     
+  147 PROSPERIDADE Gas         165.61  165.61  165.61  165.61  165.61                                                                                                                                                     
+  170 SUAPE II     Oleo        798.42  798.42  798.42  798.42  798.42                                                                                                                                                     
+  221 SYKUE I      Biomassa    510.12  510.12  510.12  510.12  510.12                                                                                                                                                     
+   43 TERMOBAHIA   Gas         282.74  282.74  282.74  282.74  282.74                                                                                                                                                     
+  152 TERMOCABO    Oleo        776.86  776.86  776.86  776.86  776.86                                                                                                                                                     
+   58 TERMOCEARA   Gas         432.78  432.78  432.78  432.78  432.78                                                                                                                                                     
+  159 TERMOMANAUS  Diesel     1136.93 1136.93 1136.93 1136.93 1136.93                                                                                                                                                     
+   67 TERMONE      Oleo        781.36  781.36  781.36  781.36  781.36                                                                                                                                                     
+   69 TERMOPB      Oleo        781.36  781.36  781.36  781.36  781.36                                                                                                                                                     
+   96 TERMOPE      Gas         178.30  178.30  178.30  178.30  178.30                                                                                                                                                     
+   83 VALE DO ACU  Gas         283.60  283.60  283.60  283.60  283.60                                                                                                                                                     
+  201 APARECIDA    Gas          68.55   68.55   68.55   68.55   68.55                                                                                                                                                     
+  203 C. ROCHA     Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+   73 GERAMAR I    Oleo        786.39  786.39  786.39  786.39  786.39                                                                                                                                                     
+   70 GERAMAR II   Oleo        786.39  786.39  786.39  786.39  786.39                                                                                                                                                     
+  204 JARAQUI      Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  205 MANAUARA     Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  436 MARAN IV L22 Gas         144.61  144.61  144.61  144.61  144.61                                                                                                                                                     
+  437 MARAN IV L7  Gas         175.06  175.06  175.06  175.06  175.06                                                                                                                                                     
+  421 MARAN V L22  Gas         144.61  144.61  144.61  144.61  144.61                                                                                                                                                     
+  422 MARAN V L7   Gas         175.06  175.06  175.06  175.06  175.06                                                                                                                                                     
+  212 MARANHAO III Gas          85.72   85.72   85.72   85.72   85.72                                                                                                                                                     
+   36 MARANHAO IV  Gas         175.06  175.06  175.06  175.06  175.06                                                                                                                                                     
+   21 MARANHAO V   Gas         175.06  175.06  175.06  175.06  175.06                                                                                                                                                     
+  140 MAUA 3       Gas          68.55   68.55   68.55   68.55   68.55                                                                                                                                                     
+  446 N.VEN 2 L22  Gas         232.27  232.27  232.27  232.27  232.27                                                                                                                                                     
+  447 N.VEN 2 L7   Gas         232.27  232.27  232.27  232.27  232.27                                                                                                                                                     
+   46 N.VENECIA 2  Gas         232.27  232.27  232.27  232.27  232.27                                                                                                                                                     
+  240 NT BARCARENA Gas         154.47  154.47  154.47  154.47  154.47                                                                                                                                                     
+  228 O. CANOAS 1  Gas         275.18  275.18  275.18  275.18  275.18                                                                                                                                                     
+  116 PARNAIBA IV  Gas         151.69  151.69  151.69  151.69  151.69                                                                                                                                                     
+  239 PARNAIBA V   Gas         104.85  104.85  104.85  104.85  104.85                                                                                                                                                     
+  207 PONTA NEGRA  Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+  176 PORTO ITAQUI Carvao      224.22  224.22  224.22  224.22  224.22                                                                                                                                                     
+  209 TAMBAQUI     Gas           0.00    0.00    0.00    0.00    0.00                                                                                                                                                     
+ 9999
+ NUM     CUSTO
+ XXXX   XXXX.XX  XX XXXX  XX XXXX
+  211    255.86   9 2021  10 2021  BAIXADA FLU 
+   97    178.27   1 2025           CUBATAO     
+   12    701.88   9 2021   4 2022  CUIABA G CC 
+   63    781.76   9 2021  10 2021  IBIRITE     
+   15    399.11   9 2021  12 2021  LINHARES    
+  110    593.41   1 2025           N.PIRATINING
+  229    112.47   9 2021  10 2021  ONCA PINTADA
+  230    158.95   9 2021  10 2021  PREDILECTA  
+   86    259.44   9 2021  12 2021  ST.CRUZ NOVA
+  146    121.49   9 2021  10 2021  STA VITORIA 
+   49    960.28   9 2021  10 2021  VIANA       
+  334   2443.68   9 2021   9 2021  W. ARJONA   
+   48   1276.44   9 2021   9 2021  ARAUCARIA   
+   48    706.35  10 2021   4 2022  ARAUCARIA   
+   28    475.68   9 2021  12 2021  FIGUEIRA    
+  107     69.75   9 2021  10 2021  PAMPA SUL   
+  149     87.75   9 2021  10 2021  SAO SEPE    
+   52    960.30   9 2021  10 2021  CAMPINA GDE 
+  106     87.81   9 2021  10 2021  ERB CANDEIAS
+   53   1087.89   9 2021  10 2021  GLOBAL I    
+   55   1087.89   9 2021  10 2021  GLOBAL II   
+   57    934.51   9 2021  10 2021  MARACANAU I 
+  167    396.09   9 2021  10 2021  P. PECEM I  
+  163    395.03   9 2021  10 2021  P. PECEM II 
+  224    321.29   9 2021  12 2021  P. SERGIPE I
+   98    828.69   9 2021  10 2021  PERNAMBU_III
+  170    982.95   9 2021  10 2021  SUAPE II    
+   43    854.01   9 2021  10 2021  TERMOBAHIA  
+  152    948.48   9 2021  10 2021  TERMOCABO   
+   58   1551.12   9 2021   9 2021  TERMOCEARA  
+   67    951.70   9 2021  10 2021  TERMONE     
+   69    951.70   9 2021  10 2021  TERMOPB     
+   83    829.28   9 2021  10 2021  VALE DO ACU 
+  201    118.96   9 2021  10 2021  APARECIDA   
+   73    960.26   9 2021  10 2021  GERAMAR I   
+   70    960.26   9 2021  10 2021  GERAMAR II  
+  436    238.25   9 2021  10 2021  MARAN IV L22
+  437    238.24   9 2021  10 2021  MARAN IV L7 
+  421    238.25   9 2021  10 2021  MARAN V L22 
+  422    238.24   9 2021  10 2021  MARAN V L7  
+  140    118.96   9 2021  10 2021  MAUA 3      
+   46    227.66   1 2025           N.VENECIA 2 
+  176    388.25   9 2021  10 2021  PORTO ITAQUI
