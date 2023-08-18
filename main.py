@@ -25,27 +25,20 @@ total_anos = (np.shape(Usina['vazoes'])[0]) - 2
 num_anos = total_anos - 1
 # print("Número de anos considerados: ", num_anos)
 
-# Número de phis considerados (num_meses = num_phis)
-# num_phis = 11
-# print("Número de phis considerados: ", num_phis)
 
-ano_previsao=2010
 
 # Mês escolhido
 meses = {'Jan': 0, 'Fev': 1, 'Mar': 2, 'Abr': 3, 'Mai': 4, 'Jun': 5,
          'Jul': 6, 'Ago': 7, 'Set': 8, 'Out': 9, 'Nov': 10, 'Dez': 11}
-
-mes = meses['Mai']
-
-z_values = []
-real_values = []
-
 
 
 
 
 anos_previsao = [2021]
 phis_values = [5]
+
+z_values = []
+real_values = []
 
 for ano_previsao in anos_previsao:
     real_values = []
