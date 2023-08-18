@@ -18,12 +18,12 @@ PMOAGO2023 = Newave(file_path)
 Usina = PMOAGO2023.confhd.get('Furnas')
 # Total de anos (descartando os 2 anos mais recentes)
 total_anos = (np.shape(Usina['vazoes'])[0]) - 2
-print("Total de anos: ", total_anos)
+# print("Total de anos: ", total_anos)
 
 # Número de anos considerados (excluindo 1931 e os últimos dois anos - 2022 e 2023)
 ## 1931 é usado somente para calcular os phis de 1932, não calculamos seu erro
 num_anos = total_anos - 1
-print("Número de anos considerados: ", num_anos)
+# print("Número de anos considerados: ", num_anos)
 
 # Número de phis considerados (num_meses = num_phis)
 # num_phis = 11
