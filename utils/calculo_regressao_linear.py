@@ -19,18 +19,7 @@ def calculo_regressao_linear(Usina, mes, num_phis ,total_anos, num_anos, imprime
 
   P = matrix(P)
 
-  #-----> Restrições de Igualdade
 
-  # Função para o recorte das matrizes
-
-  # def recorte(mes, nome):
-  #   mes = mes - 1
-  #   if (nome == 'Aeq'):
-  #     recorte =  Usina['vazoes'][1:total_anos, mes-num_phis:mes]
-  #     return recorte
-  #   if (nome == 'Beq'):
-  #     recorte = Usina['vazoes'][1:total_anos, mes:mes+1]
-  #     return recorte
 
   def recorte(mes, nome):
     
@@ -54,13 +43,7 @@ def calculo_regressao_linear(Usina, mes, num_phis ,total_anos, num_anos, imprime
       recorte = Usina['vazoes'][1:total_anos, mes:mes+1]
       return recorte
 
-# if Mes_analisado - N_meses >= 0:
 
-# recorteAnoAtual = Usina['vazoes'][1:N_anos+1,0:Mes_analisado]
-
-# recorteAnoAnt = Usina['vazoes'][0:N_anos,(Mes_analisado-N_meses):]
-
-# recorte = np.hstack((recorteAnoAnt,recorteAnoAtual))
 
   recorte_Aeq = recorte(mes, 'Aeq')
   matriz_id_1 = np.eye(num_anos)
