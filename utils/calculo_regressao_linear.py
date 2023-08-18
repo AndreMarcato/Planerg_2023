@@ -14,10 +14,12 @@ def calculo_regressao_linear(Usina, mes, num_phis ,total_anos, num_anos, imprime
   P = 2*np.eye(num_anos + num_phis)
 
   for i in range(num_phis):
-    P[i][i] = 0
+    P[i][i] = 1e-6
 
-
+  # print("P:", np.array(P))
   P = matrix(P)
+  
+  
 
 
 
@@ -98,13 +100,8 @@ def calculo_regressao_linear(Usina, mes, num_phis ,total_anos, num_anos, imprime
   # Resolve o Problema de Otimização Quadrática
 
   solvers.options['show_progress'] = False
-  
-  termoNaoNulo = 1e-6  # ou outro valor pequeno
-  P_array = np.array(P)
-  P_OK = P_array + np.eye(P_array.shape[0]) * termoNaoNulo
-  P_OK = matrix(P_OK)
 
-  sol = solvers.qp(P_OK, q, G, h, Aeq, Beq)
+  sol = solvers.qp(P, q, G, h, Aeq, Beq)
 
   resultados = sol['x']
 
