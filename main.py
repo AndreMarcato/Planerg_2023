@@ -1,4 +1,4 @@
-from funcs import *
+from utils.install_pysddp import install_pysddp
 from PySDDP.Pen import Newave
 import numpy as np
 from cvxopt import matrix, solvers
