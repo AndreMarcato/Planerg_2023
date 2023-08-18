@@ -44,8 +44,8 @@ real_values = []
 
 
 
-anos_previsao = [2001, 2005, 2010, 2015, 2020, 2021,2022,2023]
-phis_values = [1, 3, 5, 7, 9, 11]
+anos_previsao = [2021]
+phis_values = [5]
 
 for ano_previsao in anos_previsao:
     real_values = []
